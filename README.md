@@ -1,0 +1,2 @@
+# Music-Recommendation-System
+In this project, I looked at how to recommend the top 10 songs to users based on the likelihood of listening to those songs. The core dataset is the Taste Profile Subset released by The Echo Nest as part of the Million Song Dataset. The two datasets are large:  1000000 rows and 5 columns in song_data.csv and  2000000 rows and 3 columns in count_data.csv. Data is highly sparse: only 1% of data have user-song interaction. 
